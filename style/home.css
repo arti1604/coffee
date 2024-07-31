@@ -1,0 +1,42 @@
+.nav-item{
+    text-align: center;
+    justify-content: space-evenly;
+}
+.h1{
+    text-align:center;
+    padding:20px;
+  margin-left:20px;
+    
+}
+.p{
+    padding:20px;
+  margin-left:20px;
+    
+}
+  .div{
+    border: 1px solid gray;
+    margin: 20px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+.p{
+    margin: 50px;
+    padding: 50px;
+}
+
+/* cards */
+.card-group{
+  padding:10px;
+  margin:50px auto;
+}
+  .card{
+    margin:30px;
+    padding: 20px;
+  }
+  .card-group:hover{
+    padding:10px;
+    margin:50px auto;
+    transform:scale(1px);
+    cursor:pointer;
+  }
+

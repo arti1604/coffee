@@ -1,0 +1,24 @@
+/* .div{
+    border:2px solid gray;
+    height: 400px;
+    width: 500px;
+} */
+.container{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 50px;
+    padding: 20px auto;
+
+}   
+.container :hover{
+    cursor: pointer;
+    transform: scale(1px);
+}
+.h1{
+    text-align:center;
+}
+.heading{
+    border: 1px solid gray;
+}
